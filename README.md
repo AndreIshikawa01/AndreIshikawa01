@@ -1,4 +1,4 @@
-### Olá! sou o André Ishikawa 👋
+
 
 ![André Ishikawa GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreIshikawa01&show_icons=true&theme=synthwave)
 
