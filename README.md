@@ -1,7 +1,5 @@
 
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=AndreIshikawa01&show_icons=true&theme=synthwave"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIshikawa01&layout=compact&theme=synthwave"/>
-
 
 ## Tecnologias
 
